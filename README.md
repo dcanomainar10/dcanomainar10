@@ -1,4 +1,4 @@
-<h2> Hi, I'm Daniel Cano! </h2> <hr>
+<h2> Hi, I'm Daniel Cano! </h2>
 
 Software Developer at ...
 
@@ -16,7 +16,7 @@ Software Developer at ...
 ```javascript
 const dcanomainar = {
     code: ["C#", "Angular", "React", "TypeScript", "Javascript", "Python", "R", "SQL"],
-    askMeAbout: ["web dev", "tech", "app dev", "physics", 				"mathematics"],
+    askMeAbout: ["web dev", "tech", "app dev", "physics", "mathematics"],
     technologies: {
         backEnd: [".Net Core", "Net Framework", "Node"],
         mobileApp: {
