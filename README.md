@@ -1,14 +1,11 @@
 <h2> Hi, I'm Daniel Cano! </h2> <hr>
 
-
-- 👀 I’m interested in Physics, Software Development and Violin
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dcanomainar@gmail.com
+Software Developer at ...
 
 [![Twitter: dcanomainar](https://img.shields.io/twitter/follow/dcanomainar?style=social)](https://twitter.com/dcanomainar)
 [![Linkedin: danielcanomainar](https://img.shields.io/badge/-danielcanomainar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cano-mainar-b3b087ba/)](https://www.linkedin.com/in/daniel-cano-mainar-b3b087ba/)
 [![GitHub dcanomainar10](https://img.shields.io/github/followers/dcanomainar10?label=follow&style=social)](https://github.com/dcanomainar10)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dcanomainar.me/)](https://dcanomainar.me/)
 
 **:zap: Recent Activity:**
 
@@ -18,7 +15,7 @@
 
 ```javascript
 const dcanomainar = {
-    code: ["C#", "Angular", "React", "Javascript", "Python"],
+    code: ["C#", "Angular", "React", "TypeScript", "Javascript", "Python", "R", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev", "physics", 				"mathematics"],
     technologies: {
         backEnd: [".Net Core", "Net Framework", "Node"],
@@ -26,7 +23,7 @@ const dcanomainar = {
             native: ["Flutter"]
         },
         devOps: ["Azure DevOps", "AWS", "Docker🐳", "Kubernetes", "Jenkins"],
-        databases: ["SQL Server", "mongo", "MySql", "sqlite"],
+        databases: ["SQL Server", "Oracle", "mongo"],
     },
     architecture: ["Domain Driven Design", "Single page applications", "Model-View-Controller"],
     currentFocus: "Improving in design patterns",
