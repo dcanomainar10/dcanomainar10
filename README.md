@@ -18,10 +18,9 @@ const dcanomainar = {
     code: ["C#", "Angular", "React", "TypeScript", "Javascript", "Python", "R", "SQL"],
     askMeAbout: ["Web Development", "Software Development", "Physics", "Mathematics"],
     technologies: {
+        frontEnd: ["Angular", "React", "JavaScript"],
         backEnd: [".Net Core", "Net Framework", "Node"],
-        mobileApp: {
-            native: ["Flutter"]
-        },
+        mobileApp: ["Flutter"],
         devOps: ["Azure DevOps", "AWS", "Docker🐳", "Kubernetes", "Jenkins"],
         databases: ["SQL Server", "Oracle", "MongoDB", "MySQL"],
     },
