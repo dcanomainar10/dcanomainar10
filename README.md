@@ -16,14 +16,14 @@ Software Developer at ...
 ```javascript
 const dcanomainar = {
     code: ["C#", "Angular", "React", "TypeScript", "Javascript", "Python", "R", "SQL"],
-    askMeAbout: ["web dev", "tech", "app dev", "physics", "mathematics"],
+    askMeAbout: ["Web Development", "Software Development", "Physics", "Mathematics"],
     technologies: {
         backEnd: [".Net Core", "Net Framework", "Node"],
         mobileApp: {
             native: ["Flutter"]
         },
         devOps: ["Azure DevOps", "AWS", "Docker🐳", "Kubernetes", "Jenkins"],
-        databases: ["SQL Server", "Oracle", "mongo"],
+        databases: ["SQL Server", "Oracle", "MongoDB", "MySQL"],
     },
     architecture: ["Domain Driven Design", "Single page applications", "Model-View-Controller"],
     currentFocus: "Improving in design patterns",
