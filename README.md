@@ -15,12 +15,12 @@ Software Developer at ...
 
 ```javascript
 const dcanomainar = {
-    code: ["C#", "Angular", "React", "TypeScript", "Javascript", "Python", "R", "SQL"],
-    askMeAbout: ["Web Development", "Software Development", "Physics", "Mathematics"],
+    code: ["C#", "Angular", "TypeScript", "Javascript", "Python", "R", "SQL"],
+    askMeAbout: ["Software Development", "Physics"],
     technologies: {
-        frontEnd: ["Angular", "React", "JavaScript"],
-        backEnd: [".Net Core", "Net Framework", "Node"],
-        mobileApp: ["Flutter"],
+        frontEnd: ["Angular", "TypeScript", "JavaScript"],
+        backEnd: [".Net Core", ".Net Framework", "Node.js"],
+        mobileApp: ["Flutter", "Dart"],
         devOps: ["Azure DevOps", "AWS", "Docker🐳", "Kubernetes", "Jenkins"],
         databases: ["SQL Server", "Oracle", "MongoDB", "MySQL"],
     },
