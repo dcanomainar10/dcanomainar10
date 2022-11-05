@@ -5,7 +5,7 @@ Software Developer at ...
 [![Twitter: dcanomainar](https://img.shields.io/twitter/follow/dcanomainar?style=social)](https://twitter.com/dcanomainar)
 [![Linkedin: danielcanomainar](https://img.shields.io/badge/-danielcanomainar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cano-mainar-b3b087ba/)](https://www.linkedin.com/in/daniel-cano-mainar-b3b087ba/)
 [![GitHub dcanomainar10](https://img.shields.io/github/followers/dcanomainar10?label=follow&style=social)](https://github.com/dcanomainar10)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dcanomainar.me/)](https://dcanomainar.me/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dcanomainar10.github.io)](https://dcanomainar10.github.io)
 
 **:zap: Recent Activity:**
 
