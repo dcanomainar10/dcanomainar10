@@ -9,7 +9,7 @@ Software Developer at ...
 
 **:zap: Recent Activity:**
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=dcanomainar10&custom_title=Erwin%27s%20activity%20graph&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=dcanomainar10&custom_title=Daniel%27s%20activity%20graph&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  A little more about me...  
 
