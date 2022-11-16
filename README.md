@@ -1,6 +1,6 @@
 <h2> Hi, I'm Daniel Cano! </h2>
 
-Software Developer at ...
+Software Developer at SPHERAG
 
 [![Twitter: dcanomainar](https://img.shields.io/twitter/follow/dcanomainar?style=social)](https://twitter.com/dcanomainar)
 [![Linkedin: danielcanomainar](https://img.shields.io/badge/-danielcanomainar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-cano-mainar-b3b087ba/)](https://www.linkedin.com/in/daniel-cano-mainar-b3b087ba/)
