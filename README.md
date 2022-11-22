@@ -25,6 +25,6 @@ const dcanomainar = {
         databases: ["SQL Server", "Oracle", "MongoDB", "MySQL"],
     },
     architecture: ["Domain Driven Design", "Single page applications", "Model-View-Controller"],
-    currentFocus: ["Improving in design patterns", "rust", "python"],
+    currentFocus: ["Design patterns", "Architecture patterns", "Rust", "Python"],
 };
 ```
