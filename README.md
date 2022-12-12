@@ -9,7 +9,7 @@ Software Developer at SPHERAG
 
 **:zap: Recent Activity:**
 
-[![activity graph](https://github-readme-activity-graph.cyclic.app?username=dcanomainar10&custom_title=Daniel%27s%20Activity%20Graph&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dcanomainar10&custom_title=Daniel%27s%20Activity%20Graph&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  A little more about me...  
 
