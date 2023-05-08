@@ -15,16 +15,16 @@ Software Developer at SPHERAG
 
 ```javascript
 const dcanomainar = {
-    code: ["C#", "Angular", "TypeScript", "Javascript", "Python", "R", "SQL"],
+    code: ["C#", "Javascript", "TypeScript", "Python", "R", Matlab, "SQL"],
     askMeAbout: ["Software Development", "Physics"],
     technologies: {
-        frontEnd: ["Angular", "TypeScript", "JavaScript"],
-        backEnd: [".Net Core", ".Net Framework", "Node.js"],
+        frontEnd: ["Angular", "JavaScript"],
+        backEnd: [".Net Core", ".Net Framework", "Node.js", "Deno"],
         mobileApp: ["Flutter", "Dart"],
-        devOps: ["Azure DevOps", "AWS", "Docker🐳", "Kubernetes", "Jenkins"],
+        devOps: ["Azure DevOps", "AWS"],
         databases: ["SQL Server", "Oracle", "MongoDB", "MySQL"],
     },
     architecture: ["Domain Driven Design", "Single page applications", "Model-View-Controller"],
-    currentFocus: ["Design patterns", "Architecture patterns", "Rust", "Python"],
+    currentFocus: ["Design patterns", "Architecture patterns", "Python", "Flutter"],
 };
 ```
