@@ -14,7 +14,7 @@ Software Developer at SPHERAG 💧
 
 ```javascript
 const dcanomainar = {
-    code: ["C#", "Javascript", "TypeScript", "Python", "R", Matlab, "SQL"],
+    code: ["C#", "Javascript", "TypeScript", "Python", "R", "Matlab", "SQL"],
     askMeAbout: ["Software Development", "Physics"],
     technologies: {
         frontEnd: ["Angular", "JavaScript"],
