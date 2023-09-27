@@ -18,12 +18,12 @@ const dcanomainar = {
     askMeAbout: ["Software Development", "Physics"],
     technologies: {
         frontEnd: ["Angular", "JavaScript"],
-        backEnd: [".Net Core", ".Net Framework", "Node.js", "Deno"],
+        backEnd: [".Net Core", "Node.js", "Deno"],
         mobileApp: ["Flutter", "Dart"],
         devOps: ["Azure DevOps", "AWS"],
-        databases: ["SQL Server", "Oracle", "MongoDB", "MySQL"],
+        databases: ["SQL Server", "MongoDB"],
     },
     architecture: ["Domain Driven Design", "Single page applications", "Model-View-Controller"],
-    currentFocus: ["Design patterns", "Architecture patterns", "Python", "Flutter"],
+    currentFocus: ["Design patterns", "Architecture patterns", "Python"],
 };
 ```
