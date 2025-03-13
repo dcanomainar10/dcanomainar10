@@ -19,11 +19,9 @@ const dcanomainar = {
     technologies: {
         frontEnd: ["Angular", "JavaScript"],
         backEnd: [".Net Core", "Node.js", "Deno"],
-        mobileApp: ["Flutter", "Dart"],
         devOps: ["Azure DevOps", "AWS"],
         databases: ["SQL Server", "MongoDB"],
     },
-    architecture: ["Domain Driven Design", "Single page applications", "Model-View-Controller"],
-    currentFocus: ["Design patterns", "Architecture patterns", "Python"],
+    currentFocus: ["Angular, "Design patterns", "Python", "Go"],
 };
 ```
