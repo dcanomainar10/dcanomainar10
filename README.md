@@ -22,6 +22,6 @@ const dcanomainar = {
         devOps: ["Azure DevOps", "AWS"],
         databases: ["SQL Server", "MongoDB"],
     },
-    currentFocus: ["Angular, "Design patterns", "Python", "Go"],
+    currentFocus: ["Angular", "Design patterns", "Python", "Go"],
 };
 ```
