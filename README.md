@@ -14,7 +14,7 @@ Software Developer
 
 ```javascript
 const dcanomainar = {
-    code: ["C#", "Javascript", "TypeScript", "Python", "R", "Matlab", "SQL"],
+    code: ["C#", "SQL", "Angular", "Javascript", "TypeScript", "Python", "R", "Matlab"],
     askMeAbout: ["Software Development", "Physics"],
     technologies: {
         frontEnd: ["Angular", "JavaScript"],
