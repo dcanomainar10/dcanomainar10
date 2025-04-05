@@ -17,11 +17,11 @@ const dcanomainar = {
     code: ["C#", "SQL", "Angular", "Javascript", "TypeScript", "Python", "R", "Matlab"],
     askMeAbout: ["Software Development", "Physics"],
     technologies: {
-        frontEnd: ["Angular", "JavaScript"],
-        backEnd: [".Net Core", "Node.js", "Deno"],
+        frontEnd: ["Angular", "JavaScript", "JQuery"],
+        backEnd: [".Net Core", ".Net", "Node.js", "Deno"],
         devOps: ["Azure DevOps", "AWS"],
-        databases: ["SQL Server", "MongoDB"],
+        databases: ["SQL Server", "MongoDB", "DynamoDB", "OracleDB"],
     },
-    currentFocus: ["Angular", "Design patterns", "Python", "Go"],
+    currentFocus: ["Angular", "Design patterns", "Python"],
 };
 ```
