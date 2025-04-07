@@ -19,7 +19,7 @@ const dcanomainar = {
     technologies: {
         frontEnd: ["Angular", "JavaScript", "JQuery"],
         backEnd: [".Net Core", ".Net", "Node.js", "Deno"],
-        devOps: ["Azure DevOps", "AWS"],
+        devOps: ["Azure DevOps", "AWS", "Docker"],
         databases: ["SQL Server", "MongoDB", "DynamoDB", "OracleDB"],
     },
     softwarePrinciples: ["DRY", "KISS", "STUPID", "SOLID"],
